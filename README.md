@@ -1,7 +1,7 @@
 # Hospital_Management_Python
 Hospital Management system project made using python and MySQL
 
-# NOTE- Use FONT FACE AS "COURIER"  while running the program,OTHERWISE The display of program would be distorted. 
+# NOTE- Use FONT FACE as "COURIER"  while running the program,  OTHERWISE The display of program would be distorted. 
 
 # Font face means font style (Eg-Courier,Times New Roman,calibri etc)
 
