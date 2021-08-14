@@ -1,7 +1,9 @@
 # Hospital_Management_Python
 Hospital Management system project made using python and MySQL
 
-# NOTE- USE FONT STYLE "COURIER"  WHILE RUNNING THE PROGRAM,OTHERWISE THE DISPLAY OF PROGRAM WOULD BE DISTORTED 
+# NOTE- USE FONT FACE AS "COURIER"  WHILE RUNNING THE PROGRAM,OTHERWISE THE DISPLAY OF PROGRAM WOULD BE DISTORTED 
+
+# Font face means font style (Eg-Courier,Times New Roman)
 
 Software requirement are:
 a)Python IDLE (version-python 3.8) or Spyder IDE of anaconda 
