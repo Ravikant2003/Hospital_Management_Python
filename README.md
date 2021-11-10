@@ -5,7 +5,7 @@ Hospital Management system project made using python and MySQL
 Font face means font style (Eg-Courier,Times New Roman,calibri etc)
 
 # Click on the link below to read about pdf know about how this project works along with 
-[Guide to working of this project(https://github.com/Ravikant2003/Hospital_Management_Python/blob/main/Guide%20to%20Project(Hospital%20Management).pdf]
+[Guide to working of this project https://github.com/Ravikant2003/Hospital_Management_Python/blob/main/Guide%20to%20Project(Hospital%20Management).pdf]
 
 
 Software requirement are:
