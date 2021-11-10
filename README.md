@@ -1,4 +1,4 @@
-##Hospital_Management_Python
+## Hospital_Management_Python
 Hospital Management system project made using python and MySQL
 
 # NOTE- Use FONT FACE as "COURIER"  while running the program,  OTHERWISE the display of program would be distorted. 
