@@ -4,8 +4,8 @@ Hospital Management system project made using python and MySQL
 # NOTE- Use FONT FACE as "COURIER"  while running the program,  OTHERWISE the display of program would be distorted. 
 Font face means font style (Eg-Courier,Times New Roman,calibri etc)
 
-# Please read the pdf file given below to know how to run and work with this project:
-https://github.com/Ravikant2003/Hospital_Management_Python/blob/main/Guide%20to%20Project(Hospital%20Management).pdf
+# Click on the link below to read about pdf know about how this project works along with 
+Guide to working of this project:https://github.com/Ravikant2003/Hospital_Management_Python/blob/main/Guide%20to%20Project(Hospital%20Management).pdf
 
 
 Software requirement are:
