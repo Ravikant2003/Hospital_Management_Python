@@ -1,12 +1,12 @@
+[Guide to Project(Hospital Management).pdf](https://github.com/Ravikant2003/Hospital_Management_Python/files/7515666/Guide.to.Project.Hospital.Management.pdf)
 # Hospital_Management_Python
 Hospital Management system project made using python and MySQL
 
 # NOTE- Use FONT FACE as "COURIER"  while running the program,  OTHERWISE the display of program would be distorted. 
 Font face means font style (Eg-Courier,Times New Roman,calibri etc)
 
-# Click on the link below to read about pdf know about how this project works along with 
-[Guide to working of this project]
-
+# Click on the link below to read about how this project works and its screenshots. 
+[Guide to Project(Hospital Management).pdf](https://github.com/Ravikant2003/Hospital_Management_Python/files/7515666/Guide.to.Project.Hospital.Management.pdf)
 
 Software requirement are:
 a)Python IDLE (version-python 3.8) or Spyder IDE of anaconda 
